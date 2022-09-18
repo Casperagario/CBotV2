@@ -48,7 +48,7 @@ WhatsApp Bot Multi Device
 # Creator Bot
  [![Ilman](https://github.com/ilmanhdyt.png?size=200)](https://github.com/ilmanhdyt) | [![CasperAgario](https://github.com/Casperagario.png?size=200)](https://github.com/Casperagario) 
 ----|----
-[Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
+[Ilman](https://github.com/ilmanhdyt) | [Casperagario](https://github.com/Hyzerr)
  Author | Creator
  
 ### Hyzer Statistics
