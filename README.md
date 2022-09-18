@@ -51,10 +51,10 @@ WhatsApp Bot Multi Device
 [Ilman](https://github.com/ilmanhdyt) | [Casperagario](https://github.com/Hyzerr)
  Author | Creator
  
-### Hyzer Statistics
+### CasperAgario Statistics
 
-[![Hyzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyzerr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![Hyzer Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hyzerr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
+[![CasperAgario GitHub Stats](https://github-readme-stats.vercel.app/api?username=Casperagario&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![CasperAgarii Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Casperagario&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
  [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
